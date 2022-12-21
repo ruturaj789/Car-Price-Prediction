@@ -1,0 +1,2 @@
+# Car-Price-Prediction
+Main objective of this project was to predict the current price of a used car. It was a regression problem. Extracted the dataset from Car Dekho Website(3rd party API). Performed data preprocessing and data visualization followed by statistical analysis to get insights of the data. Applied Extra Trees regressor model along with cross validation and hyper tuned it but the efficiency was not as expected. So later used Random Forest Regressor and got the mean squared error of 6.84.
